@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Raghav1290/monsters-reloadex/static/css/main.84221ca5.chunk.css",
+    "main.js": "/Raghav1290/monsters-reloadex/static/js/main.d7507dd8.chunk.js",
+    "main.js.map": "/Raghav1290/monsters-reloadex/static/js/main.d7507dd8.chunk.js.map",
+    "runtime-main.js": "/Raghav1290/monsters-reloadex/static/js/runtime-main.697f9b09.js",
+    "runtime-main.js.map": "/Raghav1290/monsters-reloadex/static/js/runtime-main.697f9b09.js.map",
+    "static/js/2.f0116d2b.chunk.js": "/Raghav1290/monsters-reloadex/static/js/2.f0116d2b.chunk.js",
+    "static/js/2.f0116d2b.chunk.js.map": "/Raghav1290/monsters-reloadex/static/js/2.f0116d2b.chunk.js.map",
+    "index.html": "/Raghav1290/monsters-reloadex/index.html",
+    "precache-manifest.93738917b3dd76140a820d14fd224c17.js": "/Raghav1290/monsters-reloadex/precache-manifest.93738917b3dd76140a820d14fd224c17.js",
+    "service-worker.js": "/Raghav1290/monsters-reloadex/service-worker.js",
+    "static/css/main.84221ca5.chunk.css.map": "/Raghav1290/monsters-reloadex/static/css/main.84221ca5.chunk.css.map",
+    "static/js/2.f0116d2b.chunk.js.LICENSE.txt": "/Raghav1290/monsters-reloadex/static/js/2.f0116d2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.697f9b09.js",
+    "static/js/2.f0116d2b.chunk.js",
+    "static/css/main.84221ca5.chunk.css",
+    "static/js/main.d7507dd8.chunk.js"
+  ]
+}
